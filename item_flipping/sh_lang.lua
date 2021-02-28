@@ -8,3 +8,6 @@ ix.lang.stored.russian['rotateNotAllowed'] = 'Этот инвентарь не �
 
 ix.lang.stored.korean['rotateItem'] = '회전'
 ix.lang.stored.korean['rotateNotAllowed'] = '이 인벤토리는이 항목의 회전 버전에 맞을 수 없습니다! (%sx%s)'
+
+ix.lang.stored.french['rotateItem'] = 'Pivoter'
+ix.lang.stored.french['rotateNotAllowed'] = 'Cet inventaire ne peut pas correspondre à la version pivotée de cet objet! (% sx% s) ' ! (%sx%s)'
